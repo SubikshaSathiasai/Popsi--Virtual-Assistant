@@ -36,7 +36,7 @@ Follow these steps to get started with Popsi Virtual Assistant:
 3. Run the virtual assistant script:
 
    ```bash
-   python popsivirtualassistant.py
+   python popsi.py
    ```
 
 4. Start interacting with Popsi by giving voice commands.
@@ -51,14 +51,6 @@ Popsi Virtual Assistant responds to various voice commands. Here are some exampl
 
 Feel free to explore the code to understand how Popsi Virtual Assistant works and customize it to meet your specific requirements.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas or improvements to make, please fork this repository, create a new branch, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the authors of the libraries used in this project:
@@ -67,6 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - [pywhatkit](https://pypi.org/project/pywhatkit/)
 
 Happy coding with Popsi Virtual Assistant!
-```
-
-Make sure to replace `"https://github.com/yourusername/popsi-virtual-assistant.git"` with the actual URL of your GitHub repository, and update the relevant information in the README to match your project's specifics.
